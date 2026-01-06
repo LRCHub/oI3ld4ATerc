@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "朗朗(TVサイズ)Acoustic ver.",
+  "base_artist": "さとう。",
+  "createdAt": "2026-01-06T09:06:57.899063Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朗朗(TVサイズ)Acoustic ver.",
+      "artist": "さとう。",
+      "has_synced": false,
+      "path": "select/pl_01_朗朗(TVサイズ)Acoustic_ver._さとう。.txt"
+    }
+  ]
+}
